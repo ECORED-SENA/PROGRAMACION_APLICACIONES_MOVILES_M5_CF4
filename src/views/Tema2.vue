@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Lenguaje de programación para desarrollo de apps
-    .row.mb-5.justify-content-center
+    .row.mb-5.justify-content-center(data-aos="fade-up")
       .col-lg-9
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
@@ -105,7 +105,7 @@
       .col-lg-1.col-md-2.col-sm-3.col-xs-4: img(src="@/assets/curso/img10.svg")
       .col-lg-11.col-md-10.col-sm-9.col-xs-8: p.mb-0 iOS es otro de los sistemas operativos con mucha demanda y reconocimiento en el mercado tecnológico. Su entorno es bastante aceptado entre millones de usuarios y para él se crean y desarrollan múltiples apps.
     TabsB.color-acento-contenido.mb-5.bg-transparent
-      .py-4.py-md-5(titulo="The splendor of the mystery" :icono="require('@/assets/curso/img11.svg')")
+      .py-4.py-md-5(titulo="Swift" :icono="require('@/assets/curso/img11.svg')")
         .row
           .col-md-5
             figure
@@ -132,7 +132,7 @@
               li 
                 i.fas.fa-check
                 | Utiliza el paradigma de programación funcional, que se fundamenta en el uso de verdaderas funciones matemáticas.
-      .py-4.py-md-5(titulo="The splendor of the mystery" :icono="require('@/assets/curso/img12.svg')")
+      .py-4.py-md-5(titulo="Objective-C" :icono="require('@/assets/curso/img12.svg')")
         .row
           .col-md-5
             figure
@@ -251,19 +251,19 @@
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-6
-            figure
-              img(src='@/assets/curso/img18.svg', alt='Texto que describa la imagen')
+            figure.hover
+              img(src='@/assets/curso/img18.svg', alt='Texto que describa la imagen' style='width:180px ').m-auto
           
-        h2.text-center C#
-        p.text-center C# es el idioma de Windows Mobile. Es muy similar a C++ y Java. Microsoft ha adoptado algunas de las características de Java para simplificar su arquitectura, manteniendo el C++ como diseño. También tiene una gran y activa comunidad de desarrolladores. 
+        h2.text-center.text-color C#
+        p.text-center.text-color C# es el idioma de Windows Mobile. Es muy similar a C++ y Java. Microsoft ha adoptado algunas de las características de Java para simplificar su arquitectura, manteniendo el C++ como diseño. También tiene una gran y activa comunidad de desarrolladores. 
       .col-md.tarjeta.color-acento-contenido.p-5
         .row.justify-content-center.mb-4
           .col-6
-            figure
-              img(src='@/assets/curso/img19.png', alt='Texto que describa la imagen')
+            figure.hover
+              img(src='@/assets/curso/img19.png', alt='Texto que describa la imagen' style='width:180px ').m-auto
           
-        h2.text-center.text-white Python
-        p.text-center.text-white Python es un lenguaje que va tomando cada vez más popularidad; es fácil de aprender y fácil de comprender. Los creadores lograron trabajar en mantener una sintaxis simple y clara. Esto ayuda a los desarrolladores novatos a mantener altos niveles de productividad. Para desarrollar aplicaciones móviles multiplataforma, se utiliza Kivy. 
+        h2.text-center Python
+        p.text-center Python es un lenguaje que va tomando cada vez más popularidad; es fácil de aprender y fácil de comprender. Los creadores lograron trabajar en mantener una sintaxis simple y clara. Esto ayuda a los desarrolladores novatos a mantener altos niveles de productividad. Para desarrollar aplicaciones móviles multiplataforma, se utiliza Kivy. 
           br
           br
           |Todos estos lenguajes de programación de aplicación nativa son compilados, en lugar de interpretados.
@@ -318,4 +318,8 @@ export default {
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass" scoped>
+
+.text-color
+  color: $color-sistema-texto !important
+</style>

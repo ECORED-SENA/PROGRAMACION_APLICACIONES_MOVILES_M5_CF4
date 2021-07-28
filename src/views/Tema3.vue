@@ -195,7 +195,7 @@ export default {
     top: 30%
     left: 32px
 .icon-box
-  transition: all(1s)
+  transition: all 0.5s
   display: flex
   h4
     display: none
@@ -208,7 +208,10 @@ export default {
       display: none
     h4
       display: block
+.left .rigth
+  transition: all 0.5s
 .left:hover
+
   right: 50%
 @media (max-width: $bp-max-md)
   .left:hover

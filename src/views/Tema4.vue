@@ -18,7 +18,7 @@
         | Principales componentes de una interfaz gráfica
     .row.mb-5
       .col-lg-5
-        .tabla-b.color-acento-contenido.mb-5.bg-transparent
+        .tabla-b.color-acento-contenido.mb-5.bg-transparent.table-responsive
           .tabla-b__header
             h5.mb-0 
           table
@@ -62,7 +62,7 @@
               th Listas de imágenes: 
               td Image lists
       .col-lg-5
-        .tabla-b.color-acento-contenido.mb-5.bg-transparent
+        .tabla-b.color-acento-contenido.mb-5.bg-transparent.table-responsive
           .tabla-b__header
             h5.mb-0 
           table
@@ -153,6 +153,9 @@ export default {
 </script>
 
 <style lang="sass" scoped>
+.table-responsive
+  overflow-x: hidden
+  overflow-y: hidden
 .bg1
   background-color: #D2F3F8 !important;
 </style>
