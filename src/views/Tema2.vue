@@ -104,7 +104,7 @@
     .row.mb-5.d-felx.align-items-center
       .col-lg-1.col-md-2.col-sm-3.col-xs-4: img(src="@/assets/curso/img10.svg")
       .col-lg-11.col-md-10.col-sm-9.col-xs-8: p.mb-0 iOS es otro de los sistemas operativos con mucha demanda y reconocimiento en el mercado tecnológico. Su entorno es bastante aceptado entre millones de usuarios y para él se crean y desarrollan múltiples apps.
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-contenido.mb-5.bg-transparent
       .py-4.py-md-5(titulo="The splendor of the mystery" :icono="require('@/assets/curso/img11.svg')")
         .row
           .col-md-5

@@ -18,7 +18,7 @@
       h5.fw-normal
         b Tabla 1  
         | Herramientas para la creación de prototipos
-    .tabla-b.color-acento-contenido.mb-5
+    .tabla-b.color-acento-contenido.mb-5.bg-transparent
       .tabla-b__header
         h5.mb-0 
       table
