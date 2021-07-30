@@ -10,8 +10,13 @@
       .col-lg-6 
         p La estructura de navegación define el paso a paso que se debe seguir para cumplir o realizar una actividad. Consiste en determinar la manera en que el usuario explorará los contenidos a través de las pantallas, íconos hipervínculos y demás elementos gráficos que permiten la interacción con la aplicación. Debe ser intuitiva y predecible.
       .col-lg-6: img(src="@/assets/curso/img40.jpg")
+    .titulo-sexto.color-acento-contenido.bg-transparent
+      h5.fw-normal
+        b Figura 11 
+        | Estructura de navegación para inicio de sesión
     figure.mb-5
-      img(src="@/assets/curso/img41.svg")
+      img.mb-3(src="@/assets/curso/img41.svg")
+      figcaption (Raffino, 2020)
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Navegación con pantallas deslizantes")
         .col-md-4

@@ -13,7 +13,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/img20.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Lo que define la interacción del usuario con la app, su interfaz y el entorno general son los patrones y estructuras de navegación, planteando la manera en la cual el usuario recorrerá la aplicación, estableciendo el entorno gráfico y la interacción que realizará con los contenidos.
+            p.mb-0 Lo que define la interacción del usuario con la 
+              span.fst-italic app
+              |, su interfaz y el entorno general son los patrones y estructuras de navegación, planteando la manera en la cual el usuario recorrerá la aplicación, estableciendo el entorno gráfico y la interacción que realizará con los contenidos.
     .titulo-sexto.color-acento-contenido.bg-transparent
       h5.fw-normal
         b Figura 1 
@@ -48,12 +50,19 @@
         .row.justify-content-between
           .col-md-6.mb-4.mb-md-0
             h4 Pestañas
-            p Las pestañas se utilizan para realizar el cambio entre pantallas y se trabaja sobre un mismo nivel jerárquico. Es importante resaltar o remarcar la pestaña principal y no usarlas para incluir otras acciones distintas a la navegación, para que el usuario tenga la comodidad y facilidad de tener un punto de partida. Google sugiere no emplear más de siete pestañas, pero en iOS, por ejemplo, se muestra un máximo de cinco pestañas.
+            p Las pestañas se utilizan para realizar el cambio entre pantallas y se trabaja sobre un mismo nivel jerárquico. Es importante resaltar o remarcar la pestaña principal y no usarlas para incluir otras acciones distintas a la navegación, para que el usuario tenga la comodidad y facilidad de tener un punto de partida. 
+              span.fst-italic Google 
+              |sugiere no emplear más de siete pestañas, pero en 
+              span.fst-italic iOS
+              |, por ejemplo, se muestra un máximo de cinco pestañas.
           .col-md-5
             .titulo-sexto.color-acento-contenido.bg-transparent
               h5.fw-normal
                 b Figura 2 
-                | Visualización de pestaña en iphone y en android
+                | Visualización de pestaña en 
+                span.fst-italic iphone 
+                |y en 
+                span.fst-italic android
             figure
               img(src='@/assets/curso/img23.svg', alt='Texto que describa la imagen').mb-3
             figcaption Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).
@@ -61,7 +70,11 @@
         .row.justify-content-between
           .col-md-6.mb-4.mb-md-0
             h4 Lista
-            p Por lo general, las listas son muy similares en los tres sistemas operativos más populares: Android, iOS y Windows Phone. Las listas pueden estar integradas por texto, imágenes, botones y elementos gráficos que permitan identificar contenidos. Es importante siempre jerarquizar los contenidos en las listas. Google recomienda la agrupación de ítems relacionados para facilitar la comprensión del usuario al momento de realizar la navegación y la toma de decisiones.
+            p Por lo general, las listas son muy similares en los tres sistemas operativos más populares: 
+              span.fst-italic Android, iOS y Windows Phone. 
+              | Las listas pueden estar integradas por texto, imágenes, botones y elementos gráficos que permitan identificar contenidos. Es importante siempre jerarquizar los contenidos en las listas. 
+              span.fst-italic Google 
+              | recomienda la agrupación de ítems relacionados para facilitar la comprensión del usuario al momento de realizar la navegación y la toma de decisiones.
           .col-md-5
             .titulo-sexto.color-acento-contenido.bg-transparent
                 h5.fw-normal
@@ -120,14 +133,15 @@
                 .titulo-sexto.color-acento-contenido.bg-transparent
                   h5.fw-normal
                         b Figura 7 
-                        | Menú tipo cajón
+                        | Contraseña incorrecta
                 figure
                   img(src='@/assets/curso/img28.svg', alt='Texto que describa la imagen')
               .contenedor1
                 .titulo-sexto.color-acento-contenido.bg-transparent
                   h5.fw-normal
                         b Figura 8 
-                        | Menú tipo cajón
+                        p Error del 
+                          span.fst-italic SO
                 figure
                   img(src='@/assets/curso/img29.svg', alt='Texto que describa la imagen')
             figcaption Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).

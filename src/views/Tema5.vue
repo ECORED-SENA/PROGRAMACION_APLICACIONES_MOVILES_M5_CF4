@@ -12,13 +12,14 @@
         .row
           .col-md-8.mb-4.mb-md-0
             h4 Principales gestos
-            p Los gestos son los tipos de movimientos y pulsaciones que el usuario realiza sobre la pantalla del smartphone para activar las funciones de los diferentes elementos que hacen parte de la interfaz gráfica de usuario. Estos gestos y movimientos permiten la interacción con la aplicación.  
+            p Los principales gestos y los más utilizados son tocar, arrastrar, o deslizar, ver, salir, entre otros. Para realizarestos movimientos, se requiere como máximo de dos dedos; para la mayoría de los usuarios, estos gestos son muy comunes y populares. 
             .tabla-a.color-acento-botones.mb-5.bg-transparent.table-responsive
               table
                 thead
                   tr
                     th.th-o.h4.fw-bold.text-center.col-1 #
-                    th.col-5(colspan=2) Gestos
+                    th.col-5.col-3 Gestos
+                    th
                     th Android
                     th iOS
                     th Windows Phone
@@ -61,7 +62,7 @@
                 thead
                   tr
                     th.th-o.h4.fw-bold.text-center.col-1 #
-                    th.col-5(colspan=2).text-start Gestos
+                    th.col-5.text-start Gestos
                     th Android
                     th iOS
                     th Windows Phone
@@ -122,6 +123,5 @@ export default {
 .th-o
   background-color: $color-acento-contenido
 .table-responsive
-  overflow-x: hidden
   overflow-y: hidden
 </style>
