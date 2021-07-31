@@ -64,7 +64,7 @@
           td Es una herramienta interactiva que permite la creación del sistema de mapas de las páginas y pantallas a utilizar en el proyecto. Realiza exportación en varios formatos, cuenta con  varias librerías y diferentes plantillas que permiten elegir la más adecuada para representar y organizar el contenido de la aplicación.
         tr
           th Moqups
-          td Moqups es una herramienta similar a <i>Balsamiq</i>. Está desarrollada bajo <i>HTML5</i>, lo que le convierte en una herramienta rápida y sencilla.
+          td <i>Moqups</i> es una herramienta similar a <i>Balsamiq</i>. Está desarrollada bajo <i>HTML5</i>, lo que le convierte en una herramienta rápida y sencilla.
   
 </template>
 

@@ -44,7 +44,6 @@
                   .icon-box.right2.color-secundario.p-1.p-lg-4.m-1
                     img(src="@/assets/curso/img22.svg" style="width: 98px").m-auto
                     h4.m-auto ¿Cómo hará para volver atrás cuando haya avanzado?
-      figcaption.mt-3 Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).
     TabsB.color-acento-contenido.mb-5.bg-transparent
       .py-4.py-md-5(titulo="Pestañas" :icono="require('@/assets/curso/img31.svg')")
         .row.justify-content-between
@@ -65,7 +64,6 @@
                 span.fst-italic android
             figure
               img(src='@/assets/curso/img23.svg', alt='Texto que describa la imagen').mb-3
-            figcaption Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).
       .py-4.py-md-5(titulo="Lista" :icono="require('@/assets/curso/img32.svg')")
         .row.justify-content-between
           .col-md-6.mb-4.mb-md-0
@@ -82,7 +80,6 @@
                   | Listas
             figure
               img(src='@/assets/curso/img24.svg', alt='Texto que describa la imagen').mb-3
-              figcaption Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).
       .py-4.py-md-5(titulo="Menú tipo cajón" :icono="require('@/assets/curso/img33.svg')")
         .row.justify-content-between
           .col-md-6.mb-4.mb-md-0
@@ -95,7 +92,6 @@
                     | Menú tipo cajón
             figure
               img(src='@/assets/curso/img25.svg', alt='Texto que describa la imagen').mb-3
-              figcaption Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).
       .py-4.py-md-5(titulo="Acciones" :icono="require('@/assets/curso/img34.svg')")
         .row.justify-content-between
           .col-md-6.mb-4.mb-md-0
@@ -111,14 +107,12 @@
                 | Botones de acción en aplicación Gmail
             figure.mb-3
               img.mb-2(src='@/assets/curso/img26.svg', alt='Texto que describa la imagen')
-              figcaption (Desarrollador Android, 2015)
             .titulo-sexto.color-acento-contenido.bg-transparent
               h5.fw-normal
                 b Figura 6 
                 | Barra de acción
             figure
               img.mb-2(src='@/assets/curso/img27.svg', alt='Texto que describa la imagen')
-              figcaption Nota. Tomadas de Introducción al desarrollo de aplicaciones móviles (2020).
       .py-4.py-md-5(titulo="Cuadros de diálogo" :icono="require('@/assets/curso/img35.svg')")
         .row.justify-content-between
           .col-md-6.mb-4.mb-md-0
@@ -144,7 +138,6 @@
                           span.fst-italic SO
                 figure
                   img(src='@/assets/curso/img29.svg', alt='Texto que describa la imagen')
-            figcaption Nota. Tomada de Introducción al desarrollo de aplicaciones móviles (2020).
       .py-4.py-md-5(titulo="Barra de la app" :icono="require('@/assets/curso/img36.svg')")
         .row.justify-content-between
           .col-md-6.mb-4.mb-md-0

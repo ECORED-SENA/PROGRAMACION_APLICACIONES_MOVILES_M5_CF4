@@ -54,7 +54,9 @@
                   span.fst-italic Android Studio. 
               li 
                 i.fas.fa-check
-                | Cuenta con gran cantidad de paquetes y librerías en GitHub realizados con Java, listos para implementar.
+                p Cuenta con gran cantidad de paquetes y librerías en 
+                  span.fst-italic GitHub 
+                  | realizados con Java, listos para implementar.
               li 
                 i.fas.fa-check
                 |Lenguaje robusto basado en la programación orientada a objetos.
@@ -72,7 +74,7 @@
       .row
         .col-md-4.mb-4.mb-md-0
           h4 Administración y actualización de <i>Kotlin</i>
-          p Este lenguaje fue creado por <i>Jet Brains</i> y <i>Google</i>, es administrado por <i>Kotlin Foundation</i>, que son los encargados de mantener, administrar y actualizar el lenguaje. <i>Kotlin</i> es el lenguaje oficial para el desarrollo de Android; por esta razón, la documentación y las herramientas de Android están diseñadas para ser compatibles con <i>Kotlin</i>.
+          p Este lenguaje fue creado por <i>Jet Brains</i> y <i>Google</i>, es administrado por <i>Kotlin Foundation</i>, que son los encargados de mantener, administrar y actualizar el lenguaje. <i>Kotlin</i> es el lenguaje oficial para el desarrollo de <i>Android</i>; por esta razón, la documentación y las herramientas de <i>Android</i> están diseñadas para ser compatibles con <i>Kotlin</i>.
         .col-md-8
           figure
             img(src='@/assets/curso/img8.svg', alt='Texto que describa la imagen')
@@ -283,7 +285,7 @@
       .row(titulo="Frameworks más usados")
         .col-md-4: img(src='@/assets/curso/img16.svg', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
-          p Estos son algunos de los frameworks más utilizados en el desarrollo de aplicaciones móviles híbridas: 
+          p Estos son algunos de los <i>frameworks</i> más utilizados en el desarrollo de aplicaciones móviles híbridas: 
           .d-flex
             ul.lista-ul--color.me-5
               li 
@@ -321,7 +323,7 @@
             | que ofrece mayor y mejor soporte para el desarrollo de apps a gran escala. Este lenguaje de programación está sustentado, soportado y mantenido por 
             span.fst-italic Microsoft. TypeScript 
             |fue creado con el fin de permitir la escritura de código para aplicaciones móviles multiplataforma, utilizando 
-            span.fst-italic frameworks
+            span.fst-italic frameworks 
             | como 
             span.fst-italic NativeScript. 
       .row(titulo="Aportes y características")
