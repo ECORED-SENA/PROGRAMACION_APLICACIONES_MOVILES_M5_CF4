@@ -206,7 +206,7 @@ export default {
   &__container
     width: 300px
     position: absolute
-    top: 30%
+    top: 26%
     left: 32px
 .icon-box
   transition: all 0.5s
