@@ -12,7 +12,7 @@
         .row
           .col-md-8.mb-4.mb-md-0
             h4 Principales gestos
-            p Los principales gestos y los más utilizados son tocar, arrastrar, o deslizar, ver, salir, entre otros. Para realizarestos movimientos, se requiere como máximo de dos dedos; para la mayoría de los usuarios, estos gestos son muy comunes y populares. 
+            p Los principales gestos y los más utilizados son tocar, arrastrar, o deslizar, ver, salir, entre otros. Para realizar estos movimientos, se requiere como máximo de dos dedos; para la mayoría de los usuarios, estos gestos son muy comunes y populares. 
             .tabla-a.color-acento-botones.mb-5.bg-transparent.table-responsive
               table
                 thead

@@ -203,7 +203,7 @@
         span.fst-italic (Cross-Platform)
     .row.mb-5.d-felx.align-items-center
       .col-lg-1.col-md-2.col-sm-3.col-xs-4: img(src="@/assets/curso/img15.svg").mb-5.mb-md-0
-      .col-lg-11.col-md-10.col-sm-9.col-xs-8: p.mb-0 Los lenguajes multiplataforma se denominan de esta manera por la sencilla razón que son compatibles con varias y distintas plataformas. Esta particularidad aplica no sólo para los lenguajes de programación sino, también, para los mismos sistemas operativos, aplicaciones, programas o 
+      .col-lg-11.col-md-10.col-sm-9.col-xs-8: p.mb-0 Los lenguajes multiplataforma se denominan de esta manera por la sencilla razón que son compatibles con varias y distintas plataformas. Esta particularidad aplica no solo para los lenguajes de programación sino, también, para los mismos sistemas operativos, aplicaciones, programas o 
         span.fst-italic softwares.
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="JavaScript")

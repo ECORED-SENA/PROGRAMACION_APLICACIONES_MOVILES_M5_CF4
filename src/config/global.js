@@ -198,7 +198,7 @@ export default {
     },
     {
       referencia:
-        'Raffino, M. (2020). Interfaz - Qué es, concepto, tipos, características y ejemplos. Concepto.de.',
+        'Raffino, M. (2020). Interfaz - Qué es, concepto, tipos, características y ejemplos. Concepto.de. ',
       link: 'https://concepto.de/interfaz/',
     },
     {
@@ -246,7 +246,7 @@ export default {
     {
       termino: 'Multiplataforma',
       significado:
-        'Indica la capacidad o características con las que cuentan algunas aplicaciones móviles o software de escritorio; permiten la interoperabilidad y ejecución sobre diferentes sistemas operativos o plataformas. Algunos lenguajes de programación que facilitan la creación de aplicaciones multiplataforma son Java, C++, <i>JavaScript</i> .',
+        'Indica la capacidad o características con las que cuentan algunas aplicaciones móviles o software de escritorio; permiten la interoperabilidad y ejecución sobre diferentes sistemas operativos o plataformas. Algunos lenguajes de programación que facilitan la creación de aplicaciones multiplataforma son Java, C++, <i>JavaScript</i>.',
     },
   ],
   complementario: [

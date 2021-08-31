@@ -34,7 +34,7 @@
           td Su ventaja es la accesibilidad a distintas plataformas, como puede ser <i>PC, móvil o web</i>. Para trabajo colaborativo, se sincroniza con <i>Dropbox</i>. Se pueden exportar prototipos como si fuera un <i>APK</i>; es útil para desarrolladores <i>Android</i>.
         tr
           th UXPin
-          td Esta herramienta cuenta con muchas opciones para <i>wireframing</i>. Posibilita la conversión de un boceto a un <i>wireframe</i> digital. No sólo es la imagen o el pantallazo. No es de uso gratuito.
+          td Esta herramienta cuenta con muchas opciones para <i>wireframing</i>. Posibilita la conversión de un boceto a un <i>wireframe</i> digital. No solo es la imagen o el pantallazo. No es de uso gratuito.
         tr
           th Protoshare
           td Facilita el trabajo en equipo, brinda gran cantidad de opciones y es una herramienta clara en el diseño de la interfaz.
@@ -55,7 +55,7 @@
           td Esta herramienta es fácil de usar, con un concepto minimalista, permite con mucha facilidad cambiar los diseños sobre diferentes plataformas, computadores de escritorio, portátiles, <i>tablets</i> o <i>smartphones</i>.
         tr
           th Gliffy
-          td Esta herramienta es gratuita y permite realizar trabajos <i>online</i> para la creación de <i>mockups</i> de un sitio <i>web</i> o aplicación <i>móvil</i>. Utiliza librerías de esquemas; también cuenta con un <i>API</i> que permite la integración de las aplicaciones a diferentes elementos externos. 
+          td Esta herramienta es gratuita y permite realizar trabajos <i>online</i> para la creación de <i>mockups</i> de un sitio <i>web</i> o aplicación <i>móvil</i>. Utiliza librerías de esquemas; también cuenta con una <i>API</i> que permite la integración de las aplicaciones a diferentes elementos externos. 
         tr
           th Cacoo
           td Facilita la creación de <i>mockups</i> para sitios <i>web</i> o <i>apps</i>. Tiene una opción gratuita que solo permite exportar el proyecto final en <i>PNG</i>. Es ideal si el objetivo es diseñar la estructura del proyecto y tener una visión completa de la aplicación y su funcionalidad. Permite el trabajo colaborativo en tiempo real, muy útil para los grupos de trabajo interdisciplinares. 
